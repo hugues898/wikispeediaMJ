@@ -8,7 +8,7 @@ const Header = () => {
         <div className="head-div mx-auto main-div">
           <Fade top cascade>
             <section className="div-1">
-              <h1 className="head-div-first-text">Michael Jackson: The King of Pop at the Service of Wikispeedia ?</h1>
+              <h1 className="head-div-first-text">Michael Jackson: The King of Pop at the Service of Wikispeedia</h1>
               <h1 className="head-div-fourth-text">
               ADA 2023
               </h1>
