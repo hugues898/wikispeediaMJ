@@ -32,7 +32,7 @@ const MJ_SVG = () => {
   const calculateFillColor = () => {
     if (typeof window !== 'undefined') {
       const scrollPercentage = scrollPos / window.innerHeight;
-      const lightness = Math.min(100, 53 + (1.5 * scrollPercentage)); 
+      const lightness = Math.min(100, 48 + (1.4 * scrollPercentage)); 
       return `hsl(25, 56%, ${lightness}%)`;
     }
     return `hsl(25, 56%, 53%)`; 
