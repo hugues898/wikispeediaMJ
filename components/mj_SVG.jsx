@@ -17,10 +17,10 @@ const MJ_SVG = () => {
     setChatWindow0Open(position >= -5 && position <= 200);
     setChatWindow1Open(position >= 2400 && position <= 2600);
     setChatWindow2Open(position >= 3950 && position <= 4400);
-    setChatWindow3Open(position >= 5500 && position <= 5800);
+    setChatWindow3Open(position >= 5900 && position <= 6150);
     setChatWindow4Open(position >= 6300 && position <= 6700);
-    setChatWindow5Open(position >= 7000 && position <= 7300);
-    setChatWindow6Open(position >= 8200 && position <= 8800);
+    setChatWindow5Open(position >= 7300 && position <= 7600);
+    setChatWindow6Open(position >= 8400 && position <= 8800);
   };
   
 
